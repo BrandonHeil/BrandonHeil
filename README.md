@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonHeil
 - 👀 I’m interested in aerospace engineering, I am focusing on Model-Based Systems Engineering (MBSE) and how development of new systems can be improved.
-- 🌱 I’m currently learning anything and everything!
+- 🌱 I’m currently learning high speed fluid dynamics, and spacecraft vehicle controls!
 - 📫 How to reach me << BrandonHeilBHB@gmail.com >>
 
 <!---
